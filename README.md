@@ -1,6 +1,6 @@
-## Memperbarui Repository
+## Install Office pada linux dengan wine
 
-Menginstall office di linux (Ubunutu 20.04) dengan menggunakn wine.
+Menginstall office di linux (Ubunutu 20.04) dengan menggunakn wine,pastikan kalian sudah punya file office yang terdapat setup.exe.
 
 pertama-taman kita atu architecture 
 
